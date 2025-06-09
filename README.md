@@ -1,4 +1,4 @@
-# star-network-resilience-rennes-network-analysis
+# star-network-resilience-rennes| A network-analysis
 STAR Transport Network: Analysis, Vulnerabilities & Resilience Strategies in Rennes
 
 This project investigates the structure, vulnerabilities, and resilience of the public transport network in Rennes, France (STAR network), using network science, social network analysis, and propagation modeling techniques.
